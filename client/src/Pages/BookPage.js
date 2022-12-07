@@ -13,22 +13,22 @@ const BookPage = () => {
 
   const reviews = [
     {
-      user: "amila",
+      user: "camellia",
       comment: "This is a awesome movie.",
       date: "03-12-2022",
     },
     {
-      user: "amila",
+      user: "samantha",
       comment: "This is a awesome movie.",
       date: "03-12-2022",
     },
     {
-      user: "amila",
+      user: "amilia",
       comment: "This is a awesome movie.",
       date: "03-12-2022",
     },
     {
-      user: "amila",
+      user: "liyanage",
       comment: "This is a awesome movie.",
       date: "03-12-2022",
     },
