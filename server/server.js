@@ -57,6 +57,8 @@ const options = {
     "X-RapidAPI-Host": "imdb8.p.rapidapi.com",
   },
 };
+//this is for heroku
+//app.use(express.static(path.join(__dirname, "../client/build")));
 
 db.once("open", () => {
   app.listen(PORT, async () => {
