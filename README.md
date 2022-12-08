@@ -27,7 +27,7 @@ The deployed site of the application can be accessed by <a href="https://mysteri
 * Ethugalge Liyanage
 * Innocent Ngoy
 * Ashley Pereira
-* Astra Perev
+* Asra Pervez
 * Sam Rankin
 * James Tietjen
 * Daniel Yeung
