@@ -37,82 +37,82 @@ const bookSeedData = [
 
 const bookCommentSeedData = [
   {
-    bookId: "638ed04855356e246c00563e",
+    bookId: "639002c889b0e71c289a0bcc",
     user: "amila",
     comment: "book 1 comment 1",
   },
   {
-    bookId: "638ed04855356e246c00563e",
+    bookId: "639002c889b0e71c289a0bcc",
     user: "amila",
     comment: "book 1 comment 2",
   },
   {
-    bookId: "638ed04855356e246c00563e",
+    bookId: "639002c889b0e71c289a0bcc",
     user: "amila",
     comment: "book 1 comment 3",
   },
   {
-    bookId: "638ed04855356e246c00563e",
+    bookId: "639002c889b0e71c289a0bcc",
     user: "amila",
     comment: "book 1 comment 4",
   },
   {
-    bookId: "638ed04855356e246c005640",
+    bookId: "639002c889b0e71c289a0bcd",
     user: "amila",
     comment: "book 2 comment 1",
   },
   {
-    bookId: "638ed04855356e246c005640",
+    bookId: "639002c889b0e71c289a0bcd",
     user: "amila",
     comment: "book 2 comment 2",
   },
   {
-    bookId: "638ed04855356e246c005640",
+    bookId: "639002c889b0e71c289a0bcd",
     user: "amila",
     comment: "book 2 comment 3",
   },
   {
-    bookId: "638ed04855356e246c005640",
+    bookId: "639002c889b0e71c289a0bcd",
     user: "amila",
     comment: "book 2 comment 4",
   },
   {
-    bookId: "638ed04855356e246c005641",
+    bookId: "639002c889b0e71c289a0bcf",
     user: "amila",
     comment: "book 3 comment 1",
   },
   {
-    bookId: "638ed04855356e246c005641",
+    bookId: "639002c889b0e71c289a0bcf",
     user: "amila",
     comment: "book 3 comment 2",
   },
   {
-    bookId: "638ed04855356e246c005641",
+    bookId: "639002c889b0e71c289a0bcf",
     user: "amila",
     comment: "book 3 comment 3",
   },
   {
-    bookId: "638ed04855356e246c005641",
+    bookId: "639002c889b0e71c289a0bcf",
     user: "amila",
     comment: "book 3 comment 4",
   },
   {
-    bookId: "638ed04855356e246c00563f",
+    bookId: "639002c889b0e71c289a0bce",
     user: "amila",
     comment: "book 4 comment 1",
   },
   {
-    bookId: "638ed04855356e246c00563f",
+    bookId: "639002c889b0e71c289a0bce",
     user: "amila",
     comment: "book 4 comment 2",
   },
   {
-    bookId: "638ed04855356e246c00563f",
+    bookId: "639002c889b0e71c289a0bce",
     user: "amila",
     comment: "book 4 comment 3",
   },
   {
-    bookId: "638ed04855356e246c00563f",
+    bookId: "639002c889b0e71c289a0bce",
     user: "amila",
     comment: "book 4 comment 4",
   },
@@ -155,100 +155,100 @@ const movieSeedData = [
 
 const movieCommentSeedData = [
   {
-    movieId: "638ed3845b933602a8906f10",
+    movieId: "639002c989b0e71c289a0bd2",
     user: "amila",
     comment: "movie 1 comment 1",
   },
   {
-    movieId: "638ed3845b933602a8906f10",
+    movieId: "639002c989b0e71c289a0bd2",
     user: "amila",
     comment: "movie 1 comment 2",
   },
   {
-    movieId: "638ed3845b933602a8906f10",
+    movieId: "639002c989b0e71c289a0bd2",
     user: "amila",
     comment: "movie 1 comment 3",
   },
   {
-    movieId: "638ed3845b933602a8906f10",
+    movieId: "639002c989b0e71c289a0bd2",
     user: "amila",
     comment: "movie 1 comment 4",
   },
   {
-    movieId: "638ed3845b933602a8906f13",
+    movieId: "639002c989b0e71c289a0bd0",
     user: "amila",
     comment: "movie 2 comment 1",
   },
   {
-    movieId: "638ed3845b933602a8906f13",
+    movieId: "639002c989b0e71c289a0bd0",
     user: "amila",
     comment: "movie 2 comment 2",
   },
   {
-    movieId: "638ed3845b933602a8906f13",
+    movieId: "639002c989b0e71c289a0bd0",
     user: "amila",
     comment: "movie 2 comment 3",
   },
   {
-    movieId: "638ed3845b933602a8906f13",
+    movieId: "639002c989b0e71c289a0bd0",
     user: "amila",
     comment: "movie 2 comment 4",
   },
   {
-    movieId: "638ed3845b933602a8906f11",
+    movieId: "639002c989b0e71c289a0bd1",
     user: "amila",
     comment: "movie 3 comment 1",
   },
   {
-    movieId: "638ed3845b933602a8906f11",
+    movieId: "639002c989b0e71c289a0bd1",
     user: "amila",
     comment: "movie 3 comment 2",
   },
   {
-    movieId: "638ed3845b933602a8906f11",
+    movieId: "639002c989b0e71c289a0bd1",
     user: "amila",
     comment: "movie 3 comment 3",
   },
   {
-    movieId: "638ed3845b933602a8906f11",
+    movieId: "639002c989b0e71c289a0bd1",
     user: "amila",
     comment: "movie 3 comment 4",
   },
   {
-    movieId: "638ed3845b933602a8906f12",
+    movieId: "639002c989b0e71c289a0bd3",
     user: "amila",
     comment: "movie 4 comment 1",
   },
   {
-    movieId: "638ed3845b933602a8906f12",
+    movieId: "639002c989b0e71c289a0bd3",
     user: "amila",
     comment: "movie 4 comment 2",
   },
   {
-    movieId: "638ed3845b933602a8906f12",
+    movieId: "639002c989b0e71c289a0bd3",
     user: "amila",
     comment: "movie 4 comment 3",
   },
   {
-    movieId: "638ed3845b933602a8906f12",
+    movieId: "639002c989b0e71c289a0bd3",
     user: "amila",
     comment: "movie 4 comment 4",
   },
 ];
 
 const runSeeds = async () => {
-  const bookData = await Book.create(bookSeedData);
-  if (bookData) {
-    console.log("book data added");
-  }
+  // const bookData = await Book.create(bookSeedData);
+  // if (bookData) {
+  //   console.log("book data added");
+  // }
   const bookCommentData = await BookComment.create(bookCommentSeedData);
   if (bookCommentData) {
     console.log("book comments added");
   }
-  const movieData = await Movie.create(movieSeedData);
-  if (movieData) {
-    console.log("movie data added");
-  }
+  // const movieData = await Movie.create(movieSeedData);
+  // if (movieData) {
+  //   console.log("movie data added");
+  // }
   const movieCommentData = await MovieComment.create(movieCommentSeedData);
   if (movieCommentData) {
     console.log("movie comment data added");
