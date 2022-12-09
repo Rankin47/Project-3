@@ -22,6 +22,17 @@ The deployed site of the application can be accessed by <a href="https://mysteri
 ## Installation
 * Node.js (npm init)
 
+## Screenshots
+![frontpage](assets/frontpage.png)<br>
+![moviepage](assets/moviepage.png)<br>
+![bookpage](assets/bookpage.png)<br>
+![loginpage](assets/loginpage.png)<br>
+![signuppage](assets/signuppage.png)<br>
+
+  
+  
+ ## Demo
+[Demo](https://drive.google.com/file/d/1W9OMpkw83PHXUX77QJTXSjay5AuE4v9d/view?usp=share_link)
 
 ## Team Members
 * Ethugalge Liyanage
