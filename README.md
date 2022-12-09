@@ -1,4 +1,5 @@
 # Project-3
+Textual Relations, Between the Covers
 
 Between the Covers is an application designed to help users identify whether a particular book has been adapted to movie format. Users have the ability to create an account and search for their favourite titles.
 
@@ -36,7 +37,7 @@ The deployed site of the application can be accessed by <a href="https://mysteri
 
 ## Team Members
 * [Ethugalge Liyanage](https://github.com/kusalaindika1)
-* [Innocent Ngoy](https://github.com/Innocent Ngoy)
+* [Innocent Ngoy](https://github.com)
 * [Ashley Pereira](https://github.com/AGCPereira)
 * [Asra Pervez](https://github.com/asrabilal)
 * [Sam Rankin](https://github.com/Rankin47)
