@@ -58,7 +58,7 @@ const options = {
   },
 };
 //this is for heroku
-//app.use(express.static(path.join(__dirname, "../client/build")));
+app.use(express.static(path.join(__dirname, "../client/build")));
 
 db.once("open", () => {
   app.listen(PORT, async () => {
