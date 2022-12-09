@@ -1,5 +1,4 @@
-# Project-3
-## Textual Relations, Between the Covers
+# Textual Relations, Between the Covers
 
 Between the Covers is an application designed to help users identify whether a particular book has been adapted to movie format. Users have the ability to create an account and search for their favourite titles.
 
