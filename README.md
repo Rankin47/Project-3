@@ -36,7 +36,7 @@ The deployed site of the application can be accessed by <a href="https://mysteri
 
 ## Team Members
 * [Ethugalge Liyanage](https://github.com/kusalaindika1)
-* [Innocent Ngoy](https://github.com/asrabilal)
+* [Innocent Ngoy](https://github.com/Innocent Ngoy)
 * [Ashley Pereira](https://github.com/AGCPereira)
 * [Asra Pervez](https://github.com/asrabilal)
 * [Sam Rankin](https://github.com/Rankin47)
